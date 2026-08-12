@@ -1,5 +1,3 @@
-# About Me
-
 Hi, I'm **Jinho Park**.
 
 I'm a **Staff Software Engineer and Solution Architect** with 13+ years of experience working with **Zuora, Salesforce, billing, Quote-to-Cash, and enterprise system integrations**.
@@ -27,7 +25,7 @@ I've designed and supported integrations across systems such as:
 ```text
 Salesforce CPQ
       ↓
-   vService
+   vService (Microservice Integration Layer)
       ↓
     Zuora
       ↓
@@ -100,60 +98,40 @@ I'm currently learning and experimenting with:
 * 🧩 AI Agents
 * 🔍 RAG and knowledge-based applications
 
-My goal isn't simply to learn how to call an LLM API.
+## What I'm Building Toward
 
-I'm interested in understanding how **AI agents can interact with real enterprise systems and automate meaningful business processes**.
+My goal is to build my own **AI agent, basically my own version of JARVIS from Iron Man**.
 
-That naturally brings together two areas I'm passionate about:
+And I'm serious about it.
 
-> **Enterprise systems + AI**
+A few years ago, that would have sounded like science fiction. Today, with local LLMs, AI agents, tool calling, workflow automation, and smart-home technology, I believe it's becoming a very achievable engineering project.
 
-## What I'm Building
+I want to build an agent that isn't limited to a chat window, but can actually **understand my context, interact with my digital services, and control my physical environment**.
 
-I'm experimenting with several personal projects around AI agents, automation, and intelligent applications.
+For example, I'd like my agent to be able to:
 
-Some of the ideas I'm exploring include:
+- Understand my context, preferences, and routines
+- Check my calendar, email, and other information
+- Interact with applications and services through APIs
+- Control home automation
+- Adjust the thermostat based on context
+- Control lights and other smart devices
+- Open or close the garage door when appropriate
+- Monitor what's happening around the house
+- Automate repetitive tasks
+- Orchestrate multiple tools and workflows
+- Take actions on my behalf within clearly defined boundaries
 
-* Personal AI agents that monitor email, calendars, news, and other information
-* AI-powered workflow automation
-* Local LLM applications
-* AI agents that interact with enterprise APIs
-* Intelligent billing and monetization tools
-* Tools that help identify inconsistencies across enterprise systems
+And eventually, I want to give it a **physical body**.
 
-## A Little More About Me
+I'd love to add a robotic arm that I can actually interact with. Maybe it could pass me a coffee cup, hand me something I need, or even play a game of chess with me.
 
-I've spent much of my career working on systems that are complicated enough to make everyone in the room reach for another cup of coffee.
+Does that sound a little ridiculous? 
+Maybe.
 
-I enjoy that kind of problem.
+Does it sound fun?
+Absolutely.
 
-Give me a business process involving multiple systems, APIs, billing rules, subscriptions, usage data, payments, and a few mysterious production issues, and I'll probably want to understand how everything fits together.
+And that's exactly why I want to build it.
 
-I'm particularly interested in problems where **business requirements, technology, and architecture overlap**.
-
----
-
-Currently learning:
-
-`Python` · `LLMs` · `LangGraph` · `n8n` · `Hugging Face` · `RAG` · `AI Agents`
-
----
-
-### Areas of Interest
-
-🏗️ Enterprise Architecture
-💳 Billing & Monetization
-🔄 Quote-to-Cash
-🔌 System Integration
-🤖 AI Agents
-🧠 LLM Applications
-⚙️ Workflow Automation
-
----
-
-### What I'm Working On
-
-I'm currently building and experimenting with **AI agents and automation on my local machine**, with a particular interest in connecting AI to real-world APIs and business workflows.
-
-My long-term goal is to combine my experience in **enterprise systems and monetization** with modern AI technologies to build systems that don't just answer questions, but actually **understand context, make decisions, and perform useful work**.
-
+The goal isn't just to create an AI that can talk to me. I want to create an AI that can **see, understand, decide, and eventually act in the real world**.
